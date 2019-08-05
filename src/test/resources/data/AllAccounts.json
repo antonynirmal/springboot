@@ -1,0 +1,187 @@
+{
+  "_embedded": {
+    "accounts": [
+      {
+        "currency": "SGD",
+        "accountNumber": 585309209,
+        "openingAvailableBalance": 84327.51,
+        "accountType": "Savings",
+        "accountName": "SGSavings726",
+        "balanceDate": "07/11/2018",
+        "_links": {
+          "self": {
+            "href": "http://localhost/api/accounts"
+          },
+          "account": {
+            "href": "http://localhost/api/accounts/585309209"
+          }
+        }
+      },
+      {
+        "currency": "SGD",
+        "accountNumber": 791066619,
+        "openingAvailableBalance": 88005.93,
+        "accountType": "Savings",
+        "accountName": "AUSavings933",
+        "balanceDate": "07/11/2018",
+        "_links": {
+          "self": {
+            "href": "http://localhost/api/accounts"
+          },
+          "account": {
+            "href": "http://localhost/api/accounts/791066619"
+          }
+        }
+      },
+      {
+        "currency": "SGD",
+        "accountNumber": 321143048,
+        "openingAvailableBalance": 38010.62,
+        "accountType": "Current",
+        "accountName": "AUCurrent433",
+        "balanceDate": "07/11/2018",
+        "_links": {
+          "self": {
+            "href": "http://localhost/api/accounts"
+          },
+          "account": {
+            "href": "http://localhost/api/accounts/321143048"
+          }
+        }
+      },
+      {
+        "currency": "SGD",
+        "accountNumber": 347786244,
+        "openingAvailableBalance": 50664.65,
+        "accountType": "Current",
+        "accountName": "SGCurrent166",
+        "balanceDate": "07/11/2018",
+        "_links": {
+          "self": {
+            "href": "http://localhost/api/accounts"
+          },
+          "account": {
+            "href": "http://localhost/api/accounts/347786244"
+          }
+        }
+      },
+      {
+        "currency": "SGD",
+        "accountNumber": 680168913,
+        "openingAvailableBalance": 41327.28,
+        "accountType": "Current",
+        "accountName": "AUCurrent374",
+        "balanceDate": "07/11/2018",
+        "_links": {
+          "self": {
+            "href": "http://localhost/api/accounts"
+          },
+          "account": {
+            "href": "http://localhost/api/accounts/680168913"
+          }
+        }
+      },
+      {
+        "currency": "SGD",
+        "accountNumber": 136056165,
+        "openingAvailableBalance": 48928.79,
+        "accountType": "Savings",
+        "accountName": "AUSavings938",
+        "balanceDate": "07/11/2018",
+        "_links": {
+          "self": {
+            "href": "http://localhost/api/accounts"
+          },
+          "account": {
+            "href": "http://localhost/api/accounts/136056165"
+          }
+        }
+      },
+      {
+        "currency": "SGD",
+        "accountNumber": 453963528,
+        "openingAvailableBalance": 72117.53,
+        "accountType": "Savings",
+        "accountName": "AUSavings253",
+        "balanceDate": "07/11/2018",
+        "_links": {
+          "self": {
+            "href": "http://localhost/api/accounts"
+          },
+          "account": {
+            "href": "http://localhost/api/accounts/453963528"
+          }
+        }
+      },
+      {
+        "currency": "SGD",
+        "accountNumber": 334666982,
+        "openingAvailableBalance": 84327.51,
+        "accountType": "Savings",
+        "accountName": "AUCurrent754",
+        "balanceDate": "07/11/2018",
+        "_links": {
+          "self": {
+            "href": "http://localhost/api/accounts"
+          },
+          "account": {
+            "href": "http://localhost/api/accounts/334666982"
+          }
+        }
+      },
+      {
+        "currency": "SGD",
+        "accountNumber": 793949180,
+        "openingAvailableBalance": 20588.16,
+        "accountType": "Current",
+        "accountName": "AUCurrent754",
+        "balanceDate": "07/11/2018",
+        "_links": {
+          "self": {
+            "href": "http://localhost/api/accounts"
+          },
+          "account": {
+            "href": "http://localhost/api/accounts/793949180"
+          }
+        }
+      },
+      {
+        "currency": "SGD",
+        "accountNumber": 768759901,
+        "openingAvailableBalance": 5906.55,
+        "accountType": "Current",
+        "accountName": "SGCurrent294",
+        "balanceDate": "07/11/2018",
+        "_links": {
+          "self": {
+            "href": "http://localhost/api/accounts"
+          },
+          "account": {
+            "href": "http://localhost/api/accounts/768759901"
+          }
+        }
+      },
+      {
+        "currency": "SGD",
+        "accountNumber": 847257972,
+        "openingAvailableBalance": 92561.68,
+        "accountType": "Current",
+        "accountName": "AUCurrent591",
+        "balanceDate": "07/11/2018",
+        "_links": {
+          "self": {
+            "href": "http://localhost/api/accounts"
+          },
+          "account": {
+            "href": "http://localhost/api/accounts/847257972"
+          }
+        }
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "http://localhost/api/accounts"
+    }
+  }
+}

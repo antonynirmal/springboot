@@ -1,0 +1,27 @@
+{
+  "_embedded": {
+    "accounts": [
+      {
+        "currency": "SGD",
+        "accountNumber": 585309209,
+        "openingAvailableBalance": 84327.51,
+        "accountType": "Savings",
+        "accountName": "SGSavings726",
+        "balanceDate": "07/11/2018",
+        "_links": {
+          "self": {
+            "href": "http://localhost/api/accounts"
+          },
+          "account": {
+            "href": "http://localhost/api/accounts/585309209"
+          }
+        }
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "http://localhost/api/accounts/585309209"
+    }
+  }
+}
